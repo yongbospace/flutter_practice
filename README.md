@@ -1,16 +1,12 @@
-# flutter_practice
+# Flutter practice app
 
-A new Flutter project.
+Using flutter framework, made various application.
 
-## Getting Started
+Every application is linked with main.dart through Elevated Buttons,
 
-This project is a starting point for a Flutter application.
+Skills to include
 
-A few resources to get you started if this is your first Flutter project:
+1. I am Iron man : Scaffold Appbar and AssetImage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
